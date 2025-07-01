@@ -16,26 +16,26 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🧰 Tech Stack & Tools
 
-- 🛒 **Blinkit SQL Case Study**
-  Advanced MySQL project solving 25+ retail analytics problems using joins, CTEs, window functions, and more.
+#### 👨‍💻 Languages:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- ☀️ **S.U.R.Y.A. – Solar Energy Dashboard**(https://suryaaa.vercel.app/)  
-  Built using MySQL + Power BI to analyze solar panel data and forecast energy savings.
+#### 📊 Data Analytics & Visualization:
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- 📦 **E-Commerce Personalization Engine**  
-  Developed a recommender system using ALS & BPR collaborative filtering. Deployed with Streamlit & Power BI.
+#### 🔍 Data Science & ML:
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
-### 🧰 Tools & Skills
-
-- **Languages & Querying:** SQL, Python, Jupyter
-- **Visualization:** Power BI, Excel, Tableau
-- **Tools:** MySQL, Streamlit, Zapier, Git
-
----
+#### 🌱 IoT & Hardware:
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🏆 Notable Achievements
 
