@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Mahendra Yadav</h1>
 <p align="center">
   🎓 B.Tech | Electronics & Telecommunication (2021–2025) <br>
-  📊 Data Analytics | SQL | Python | Dashboards <br>
+  📊 Data Analytics | SQL | Python | Excel | Predictive Analysis | ML | Dashboards <br>
   🧠 Turning raw data into real-world business insight
 </p>
 
@@ -12,7 +12,7 @@
 - 📍 Based in Navi Mumbai, India  
 - 🛠️ Building data-powered solutions for real-world use cases  
 - 🧠 I love combining analytical thinking with technical skills to extract insights  
-- 💬 Currently working on SQL case studies, Power BI dashboards & ML-backed recommendation systems
+- 💬 Experienced in working on SQL case studies, EDA using Excel & Python, WebScraping, Power BI dashboards & ML-backed recommendation systems
 
 ---
 
@@ -27,16 +27,12 @@
 - 📦 **E-Commerce Personalization Engine**  
   Developed a recommender system using ALS & BPR collaborative filtering. Deployed with Streamlit & Power BI.
 
-- 🍄 **Mushroots: IoT-Based Mushroom Cultivation System**  
-  Integrated Raspberry Pi, sensors & ML to automate a climate-controlled grow system.
-
 ---
 
 ### 🧰 Tools & Skills
 
 - **Languages & Querying:** SQL, Python, Jupyter
 - **Visualization:** Power BI, Excel, Tableau
-- **IoT Platforms:** Raspberry Pi, ESP32, Arduino, Sensors
 - **Tools:** MySQL, Streamlit, Zapier, Git
 
 ---
@@ -53,8 +49,6 @@
 
 - 📧 Email: yparth079@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/parth-yadav-4a73a526a)  
-- 🌐 [Portfolio Dashboard (S.U.R.Y.A.)](https://suryaaa.vercel.app/)  
-- 📷 [Instagram – Guftagoo (PCE Lit Society)](https://www.instagram.com/guftagoo.pce/)
 
 ---
 
